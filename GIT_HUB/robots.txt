@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sharmgaurab-cybersec.github.io/sitemap.xml
